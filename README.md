@@ -19,6 +19,6 @@ Gephi 의 네트워크 그림을 이용하기 위해 model 에서 생성된 pick
 ## side2vec_heatmap
 
 약물 별 부작용 횟수 데이터로 약물간 상관계수 계산을 하여 seaborn 패키지를 이용하여 연도별 heatmap 제작
-연도별로 모델 설정을 달리 해서 2014~2019년의 heatmap 변화를 확인 가능
+연도별로 모델 설정을 달리 해서 2010~2019년의 heatmap 변화를 확인 가능
 
 ![heatmap](https://github.com/lakeparkXPA/side2vec/assets/47446855/6d143d23-3bdd-4087-aebc-db224886712a)
